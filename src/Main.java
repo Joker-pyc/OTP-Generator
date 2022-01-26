@@ -1,5 +1,5 @@
 //This is a commercial programm 
-//The User must get the copy of license before using rhis programm
+//The User can use this program commercially but has not right to do changes in the code
 //Author: Santosh Maurya.
 
 import java.util.*;
